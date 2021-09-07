@@ -1,0 +1,66 @@
+html {
+  font-family: arial;
+}
+
+.wrapper {
+  /* display: flex; */
+
+  position: inherit;
+}
+
+.main {
+  /* margin: 0 auto; */
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -150px;
+}
+
+.display {
+  background-color: rgb(201, 201, 201);
+  padding: 15px;
+  width: 250px;
+  text-align: right;
+  font-size: 20px;
+  /* border-radius : 둥근모서리 표현 */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+button {
+  padding: 10px;
+  width: 67px;
+  height: 45px;
+  margin-top: 10px;
+  background-color: gray;
+  color: white;
+  font-size: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: darkgray;
+}
+
+button:focus {
+  outline: none;
+}
+
+button:active {
+  background-color: rgb(136, 136, 136);
+}
+
+#r1-4,
+#r2-4,
+#r3-4,
+#r4-4,
+#r5-4 {
+  background-color: orange;
+}
