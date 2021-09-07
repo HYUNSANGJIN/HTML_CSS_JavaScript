@@ -2,5 +2,6 @@
 
 - html, css, js Calculator
 
-<img width="344" alt="스크린샷 2021-09-07 오후 5 32 31" src="https://user-images.githubusercontent.com/78408946/132317056-4d57dbeb-18a9-4b2f-8a36-c5f175888abd.png">
+![Calculator](https://user-images.githubusercontent.com/78408946/132330280-9e17fa7e-715d-4ba1-a954-dc4310125f46.gif)
+
 
